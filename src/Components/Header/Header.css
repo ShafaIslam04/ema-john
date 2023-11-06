@@ -1,0 +1,17 @@
+.header{
+
+    background-color: cadetblue;
+    display: flex;
+    justify-content:space-between;
+    height:60px;
+    
+    
+}
+a{
+ 
+    padding: 10px;
+    color: antiquewhite;
+    text-decoration: none;
+
+
+}

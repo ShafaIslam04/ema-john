@@ -1,0 +1,23 @@
+.shop{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    padding: 20px;
+}
+.all-product{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
+    
+    
+}
+
+.cart{
+
+    background-color: rgb(160, 200, 202);
+    border-radius: 5px;
+    height: 550px;
+    position:sticky;
+    top:0;
+    
+
+}
